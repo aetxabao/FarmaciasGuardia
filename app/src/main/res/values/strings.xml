@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Farmacias</string>
+    <string name="app_title">Farmacias de guardia de Navarra</string>
+    <string name="connecting">conectando</string>
+    <string name="query">consultar</string>
+    <string name="title_activity_fecha">FechaActivity</string>
+    <string name="title_activity_zona">ZonaActivity</string>
+    <string name="title_activity_farmas">FarmasActivity</string>
+</resources>
